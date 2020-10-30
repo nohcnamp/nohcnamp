@@ -1,9 +1,9 @@
 Hello there,
 ---
 
-<p>&#128204; Bio</p>
-
 ![](https://media.giphy.com/media/uirZilfaQk85a/giphy.gif)
+
+<p>&#128204; Bio</p>
 
 I am 23 years old and I am currently preparing a master's degree in geomatics and spatial modelling at the Faculty of Letters, Arts, Languages and Humanities in Aix-en-Provence.
 This course allows me to deal with geography issues through the use of GIS and remote sensing. In addition, I'm trying to learn and perfect myself in python and R programming and soon may be in rust and julia because I think it will be of great interest in geographical studies.
