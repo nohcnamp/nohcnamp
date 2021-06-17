@@ -5,6 +5,25 @@
 <div align="center">
     <img src="https://media.giphy.com/media/CUTWsZ8UOlKuc/giphy.gif" alt="tisbutascratch" width="500" height="600">
 </div>
+<div align="center">
+    <p>
+        <a href="https://medium.com/@pierre.manchon">
+            <img src="./svg/medium.svg?sanitize=true", width="3%", height="3%", preserveAspectRatio="x1Y1 meet", viewBox="0 0 1 1", color="white">
+        </a>
+        <a href="https://twitter.com/pierre_manchon">
+            <img src="./svg/twitter.svg?sanitize=true", width="3%", height="3%", preserveAspectRatio="x1Y1 meet", viewBox="0 0 1 1">
+        </a>
+        <a href="https://www.linkedin.com/in/pierre-manchon">
+            <img src="./svg/linkedin.svg?sanitize=true", width="3%", height="1%", preserveAspectRatio="x1Y1 meet", viewBox="0 0 1 1">
+        </a>
+        <a href="https://www.reddit.com/user/pierre-manchon">
+            <img src="./svg/reddit.svg?sanitize=true", width="3%", height="3%", preserveAspectRatio="x1Y1 meet", viewBox="0 0 1 1">
+        </a>
+        <a href="https://dev.to/pierremanchon">
+            <img src="./svg/devdotto.svg?sanitize=true", width="3%", height="3%", preserveAspectRatio="x1Y1 meet", viewBox="0 0 1 1">
+        </a>
+    </p>
+</div>
 <div align="center" style="border-radius: 5px">
     <p align="justify" style="font-family: 'Script MT Bold',serif; margin: 1.5%; padding: 1%">
         My name is Pierre, I am 23 years old and I am currently preparing a master's degree in geomatics and spatial modelling at the Faculty of Letters, Arts, Languages and Humanities in Aix-en-Provence.
@@ -13,14 +32,13 @@
     </p>
 </div>
 
-[![gh_page](https://img.shields.io/website?down_color=red&down_message=down&up_color=light-green&up_message=up&url=https://pierre-manchon.github.io/)](https://pierre-manchon.github.io/)
-[![medium](https://img.shields.io/static/v1?label=&labelColor=313131&message=Medium&color=0A0A0A&style=flat&logo=medium)](https://medium.com/@pierre.manchon)
-[![dev](https://img.shields.io/static/v1?label=&labelColor=313131&message=Dev&color=12100E&style=flat&logo=dev.to)](https://dev.to/pierremanchon)
-[![linkedin](https://img.shields.io/static/v1?label=&labelColor=313131&message=linkedIN&color=0077B5&style=flat&logo=linkedin)](https://www.linkedin.com/in/pierre-manchon/)
 [![github](https://img.shields.io/static/v1?label=&labelColor=313131&message=GitHub&color=181717&style=flat&logo=github)](https://github.com/pierre-manchon)
 [![gitlab](https://img.shields.io/static/v1?label=&labelColor=313131&message=GitLab&color=FCA121&style=flat&logo=gitlab)](https://gitlab.com/pierre-manchon)
-[![bitbucket](https://img.shields.io/static/v1?label=&labelColor=313131&message=BitBucket&color=0052CC&style=flat&logo=bitbucket&link=)](https://bitbucket.org/pierre-manchon/)
+[![framagit](https://img.shields.io/static/v1?label=&labelColor=313131&message=Framagit&color=FCA121&style=flat&logo=gitlab)](https://framagit.org/pierre-manchon)
+[![bitbucket](https://img.shields.io/static/v1?label=&labelColor=313131&message=BitBucket&color=0052CC&style=flat&logo=bitbucket&link=)](https://bitbucket.org/pierre-manchon)
+
 <!--
+[![gh_page](https://img.shields.io/website?down_color=red&down_message=no&label=website&up_color=light_green&up_message=yes&url=https://pierre-manchon.github.io/)](https://pierre-manchon.github.io/)
 [![pypi](https://img.shields.io/static/v1?label=&labelColor=313131&message=PyPI&color=3775A9&style=flat&logo=pypi)](https://pypi.org/user/pierre-m/)
 [![docker](https://img.shields.io/static/v1?label=&labelColor=313131&message=Docker&color=2496ED&style=flat&logo=docker)](https://hub.docker.com/u/pierremanchon)
 [![coverall](https://img.shields.io/static/v1?label=&labelColor=313131&message=Coveralls&color=3F5767&style=flat&logo=coveralls)](https://coveralls.io/github/pierre-manchon/EOSIMVTools)
