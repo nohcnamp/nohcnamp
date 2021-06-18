@@ -8,7 +8,7 @@
 <div align="center">
     <p>
         <a href="https://medium.com/@pierre.manchon">
-            <img src="./svg/medium.svg?sanitize=true", width="3%", height="3%", preserveAspectRatio="x1Y1 meet", viewBox="0 0 1 1", color="white">
+            <img src="./svg/medium.svg?sanitize=true", width="3%", height="3%", preserveAspectRatio="x1Y1 meet", viewBox="0 0 1 1">
         </a>
         <a href="https://twitter.com/pierre_manchon">
             <img src="./svg/twitter.svg?sanitize=true", width="3%", height="3%", preserveAspectRatio="x1Y1 meet", viewBox="0 0 1 1">
