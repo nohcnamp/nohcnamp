@@ -1,4 +1,4 @@
-## [![typing](https://readme-typing-svg.herokuapp.com?color=FFFFFF&vCenter=true&width=500&height=20&lines=Hey+%F0%9F%91%8B%2C+I'm+Pierre+Manchon!;I+work+on+GIS+and+spatial+analysis...;I+use+python+and+want+to+try+Rust...)](https://git.io/typing-svg) [![pgp_key](https://img.shields.io/badge/pgp-2074BD8854F1F7E9D1F04DF2F24A34529DB0FD3B-blue])](https://pierre-manchon.pm/~/pierre-manchon.asc) [![website](https://img.shields.io/website?url=https%3A%2F%2Fpierre-manchon.pm%2F)](https://pierre-manchon.pm)
+## [![typing](https://readme-typing-svg.herokuapp.com?color=FFFFFF&vCenter=true&width=500&height=20&lines=Hey+%F0%9F%91%8B%2C+I'm+Pierre+Manchon!;I+work+on+GIS+and+spatial+analysis...;I+use+python+and+want+to+try+Rust...)](https://git.io/typing-svg) [![pgp_key](https://img.shields.io/badge/pgp-2074BD8854F1F7E9D1F04DF2F24A34529DB0FD3B-blue])](https://pierre-manchon.pm/~/pierre-manchon.asc)
 
 My name is Pierre, I am 24 years old and I am currently finishing a master's degree in geomatics and spatial modelling at the Faculty of Letters, Arts, Languages and Humanities in Aix-en-Provence in France.
 
