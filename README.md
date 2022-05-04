@@ -5,12 +5,10 @@
 
 My name is Pierre, I am 24 years old.
     
-I recently finished a master's degree in geomatics and spatial modelling at the Faculty of Letters, Arts, Languages and Humanities in Aix-en-Provence in France.
+I recently finished a master's degree in geomatics and spatial modelling which allowed me to deal with geography issues through the use of GIS, spatial analysis, remote sensing and various other techniques. Moreover, as an autodidact, I learnt various python techniques and best practices such as regex, dataclasses, generators, context managers..
 
-This course allowed me to deal with geography issues through the use of GIS, spatial analysis, remote sensing and various other techniques. Moreover, as an autodidact, I learnt various python techniques and best practices such as regex, dataclasses, generators, context managers..
-
-- 🔭 I’m currently working on [EOSIMVTools](https://github.com/pierre-manchon/EOSIMVTools) a package to retrieve and explore satellite data for earth exploration.
-- 🌱 I’m currently learning tox, pre-commit and conitnuous integrationin general.
+- 🔭 I'm working !
+- 🌱 I’m trying to learn tox, pre-commit and continuous integration in general.
 - ⚡ Fun fact: I keep dark mode everywhere i can
 <div align="center">
 
