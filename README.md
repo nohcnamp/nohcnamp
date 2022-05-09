@@ -8,6 +8,7 @@
 <a href="https://pierre-manchon.pm/find-me#repositories">
     <img alt="repositories" src="https://img.shields.io/static/v1?label=%23repositories&labelColor=0d1117&message=5&color=161b22&style=flat-square">
 </a>
+|
 <a href="https://pierre-manchon.pm/find-me#contact">
     <img alt="contact" src="https://img.shields.io/static/v1?label=%23contact&labelColor=0d1117&message=10&color=161b22&style=flat-square">
 </a>
@@ -22,8 +23,3 @@
 
     Alright, we'll call it a draw
 </div>
-<div align="center">
-    <a href="">
-        <img src="https://media.giphy.com/media/CUTWsZ8UOlKuc/giphy.gif" alt="tisbutascratch" width="500" height="600">
-    </a>
-<div>
