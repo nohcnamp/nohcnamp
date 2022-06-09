@@ -23,3 +23,9 @@
 
     Alright, we'll call it a draw
 </div>
+<a href="https://pierre-manchon.pm">
+    <img alt="website" src="https://img.shields.io/website?down_color=lightyellow&down_message=unlikely&label=awake&labelColor=0d1117&up_color=lightgreen&up_message=most likely&url=https%3A%2F%2Fpierre-manchon.pm&style=flat-square">
+</a>
+<a href="https://pierre-manchon.pm">
+    <img alt="website" src="https://img.shields.io/website?down_color=lightyellow&down_message=404&label=music&labelColor=0d1117&up_color=lightgreen&up_message=oui&url=https%3A%2F%2Fpierre-manchon.pm&style=flat-square">
+</a>
