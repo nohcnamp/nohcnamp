@@ -16,9 +16,5 @@
 
     Alright, we'll call it a draw
 </div>
-<a href="https://pierre-manchon.pm">
-    <img alt="website" src="https://img.shields.io/website?down_color=484b63&down_message=bedge&label=awake&labelColor=161b22&up_color=lightyellow&up_message=buisness is booming&url=https%3A%2F%2Fpierre-manchon.pm&style=flat-square">
-</a>
-<a href="https://pierre-manchon.pm">
-    <img alt="website" src="https://img.shields.io/website?down_color=484b63&down_message=calm&label=music&labelColor=161b22&up_color=lightyellow&up_message=catJam&url=https%3A%2F%2Fpierre.manchon.pm&style=flat-square">
-</a>
+<!-- <a href="x"><img alt="music?" src="https://img.shields.io/badge/-bedge-323659"></a> -->
+<a href="x"><img alt="music?" src="https://img.shields.io/badge/-awake-ebdb8f"></a>
