@@ -1,10 +1,16 @@
 ## [![typing](https://readme-typing-svg.herokuapp.com?color=FFFFFF&vCenter=true&width=500&height=20&lines=Hey+%F0%9F%91%8B%2C+I'm+Pierre;I+work+on+remote+sensing+and+gis;)]()
 <div align="left">
 
+    ⚠️ I will now use
+       https://sr.ht/~pierre-manchon/
+       as my main repository ⚠️
+    
     🔭 First job after my MD!
-    🌱 Perfecting my spatial analysis and remote sensing skills
-    🌱 Learning tox, pre-commit & continuous integration in general.
-    ⚡ Fun fact: I keep dark mode everywhere i can !
+    🌱 Perfecting my spatial analysis
+       and remote sensing skills
+    ⚡ Learning tox, pre-commit
+       & continuous integration in general.
+
 </div>
 <div align="center">
 
@@ -16,5 +22,3 @@
 <a href="https://pierre-manchon.pm/find-me#contact">
     <img alt="contact" src="https://img.shields.io/static/v1?label=%2Ffind-me%23contact&labelColor=161b22&message= &color=161b22&style=flat-square">
 </a>
-<!-- <a href="x"><img alt="music?" src="https://img.shields.io/badge/-bedge-323659"></a> -->
-<a href="x"><img alt="music?" src="https://img.shields.io/badge/-awake-ebdb8f"></a>
