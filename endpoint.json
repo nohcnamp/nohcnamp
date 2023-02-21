@@ -1,14 +1,6 @@
 {
   "schemaVersion": 1,
   "label": "awake",
-  "message": "",
   "color": "00ffff",
-  "labelColor": "none",
-  "isError": "False",
-  "namedLogo": "none",
-  "logoSvg": "none",
-  "logoColor": "none",
-  "logoWidth": "none",
-  "logoPosition": "none",
   "style": "flat-square"
 }
