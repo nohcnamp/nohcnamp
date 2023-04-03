@@ -7,9 +7,9 @@
        as my main repository ⚠️
     
     🔭 First job after my MD!
-    🌱 Perfecting my spatial analysis
+    🌱 Learning unit testing & ci/cd in general.
+    ⚡ Perfecting my spatial analysis
        and remote sensing skills
-    ⚡ Learning unit testing & ci/cd in general.
 
 </div>
 <div align="center">
