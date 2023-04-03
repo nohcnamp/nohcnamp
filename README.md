@@ -1,4 +1,3 @@
-## [![typing](https://readme-typing-svg.herokuapp.com?color=FFFFFF&vCenter=true&width=500&height=20&lines=Hey+%F0%9F%91%8B%2C+I'm+Pierre;I+work+on+remote+sensing+and+gis;)]()
 <div align="left">
 
     ⚠️ I will now use
@@ -8,8 +7,7 @@
     🔭 First job after my MD!
     🌱 Perfecting my spatial analysis
        and remote sensing skills
-    ⚡ Learning tox, pre-commit
-       & continuous integration in general.
+    ⚡ Learning unit testing & ci/cd in general.
 
 </div>
 <div align="center">
