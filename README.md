@@ -6,7 +6,6 @@
        https://sr.ht/~pierre-manchon/
        as my main repository ⚠️
     
-    🔭 First job after my MD!
     🌱 Learning unit testing & ci/cd in general.
     ⚡ Perfecting my spatial analysis
        and remote sensing skills
