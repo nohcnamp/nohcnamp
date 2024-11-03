@@ -1,16 +1,19 @@
-# Visit https://github.com/lowlighter/metrics#-documentation for full reference
+# Licensed under The Unlicense
+# Feel free to reuse, edit and redistribute this workflow as you wish, no credits needed
+# See https://github.com/lowlighter/metrics for documentation about how to use metrics action
+
 name: Metrics
 on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
-  # Lines below let you run workflow manually and on each commit
+  # 🌏 Think about the planet! No need to update stats too frequently
+  schedule: [{cron: "0 16 * * *"}]
+  # 💡 The following line lets you run workflow manually from the action tab!
   workflow_dispatch:
-  push: {branches: ["main"]}
 jobs:
-  github-metrics:
+  metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      pull-requests: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -24,9 +27,11 @@ jobs:
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
-
+          filename: newest-metrics.svg
+          output_action: commit
+          committer_branch: metrics-renders
+          committer_message: "chore: CRON metrics rendering task"
           # Options
-          user: pierre-manchon
           template: classic
           base: repositories, metadata
           base_indepth: yes
@@ -52,3 +57,11 @@ jobs:
           plugin_music_top_type: tracks
           plugin_music_user: lVUD34RjQzqWY-lzWDTscg
           plugin_traffic: yes
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: newest-metrics.svg
+          output_action: pull-request
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          output_action: pull-request-merge
