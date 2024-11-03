@@ -1,7 +1,6 @@
 # Licensed under The Unlicense
 # Feel free to reuse, edit and redistribute this workflow as you wish, no credits needed
 # See https://github.com/lowlighter/metrics for documentation about how to use metrics action
-
 name: Metrics
 on:
   push:
