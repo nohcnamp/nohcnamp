@@ -3,6 +3,9 @@
 # See https://github.com/lowlighter/metrics for documentation about how to use metrics action
 
 name: Metrics
+env:
+# https://stackoverflow.com/a/71158878
+  BRANCH_NAME: ${{ github.head_ref || github.ref_name }}
 on:
   push:
     branches: [ "main" ]
@@ -16,7 +19,7 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     environment: 
-      name: production
+      name:  "${{ $BRANCH_NAME == 'main' && 'production' || 'review' }}"
     permissions:
       contents: write
       pull-requests: write
@@ -25,7 +28,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: newest-metrics.svg
-          output_action: commit
+          output_action: pull-request
           committer_branch: metrics-renders
           committer_message: "chore: CRON metrics rendering task"
           # Options
@@ -54,10 +57,6 @@ jobs:
           plugin_music_top_type: tracks
           plugin_music_user: lVUD34RjQzqWY-lzWDTscg
           plugin_traffic: yes
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: newest-metrics.svg
-          output_action: pull-request
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg
