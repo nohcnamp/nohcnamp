@@ -23,5 +23,4 @@
     Alright, we'll call it a draw
 </div>
 
-
-![Metrics](https://metrics.lecoq.io/pierre-manchon?template=classic&base.indepth=true&commits.authoring=pierre-manchon&base.header=0&base.activity=0&base.community=0&lines=1&habits=1&music=1&traffic=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=25&lines.delay=0&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&traffic=false&music=false&music.provider=spotify&music.user=lVUD34RjQzqWY-lzWDTscg&music.mode=top&music.limit=4&music.played.at=false&music.time.range=medium&music.top.type=tracks&config.timezone=Europe%2FParis&config.display=columns)
+![Metrics](metrics.svg)
