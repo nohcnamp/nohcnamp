@@ -26,7 +26,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: newest-metrics.svg
           output_action: pull-request
-          committer_branch: ${{ github.head_ref || github.ref_name }}  # Gets only the branch name from refs/heads/branch_name
+          # https://stackoverflow.com/a/71158878
+          committer_branch: main  # Name is confusing: PR target branch
           committer_message: "chore: CRON metrics rendering task"
           # Options
           template: classic
@@ -50,9 +51,9 @@ jobs:
           plugin_music_limit: 4
           plugin_music_mode: top
           plugin_music_provider: spotify
-          plugin_music_time_range: medium
+          plugin_music_time_range: short
           plugin_music_top_type: tracks
-          plugin_music_user: lVUD34RjQzqWY-lzWDTscg
+          plugin_music_user: ${{ secrets.SPOTIFY_TOKEN }}
           plugin_traffic: yes
       - uses: lowlighter/metrics@latest
         with:
