@@ -26,7 +26,7 @@ jobs:
           filename: metrics.svg
           output_action: pull-request-merge
           # https://stackoverflow.com/a/71158878
-          committer_branch: main  # Name is confusing: PR target branch
+          committer_branch: ${{ github.head_ref || github.ref_name }}  # Name is confusing: PR target branch
           committer_message: "chore: CRON metrics rendering task"
           # Options
           template: classic
