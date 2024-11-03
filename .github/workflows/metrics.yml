@@ -3,9 +3,6 @@
 # See https://github.com/lowlighter/metrics for documentation about how to use metrics action
 
 name: Metrics
-env:
-# https://stackoverflow.com/a/71158878
-  BRANCH_NAME: ${{ github.head_ref || github.ref_name }}
 on:
   push:
     branches: [ "main" ]
@@ -19,7 +16,7 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     environment: 
-      name:  "${{ $BRANCH_NAME == 'main' && 'production' || 'review' }}"
+      name: ${{ github.ref == 'refs/heads/main' && 'production' || 'review' }}
     permissions:
       contents: write
       pull-requests: write
