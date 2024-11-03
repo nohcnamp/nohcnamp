@@ -23,8 +23,8 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: newest-metrics.svg
-          output_action: pull-request
+          filename: metrics.svg
+          output_action: pull-request-merge
           # https://stackoverflow.com/a/71158878
           committer_branch: main  # Name is confusing: PR target branch
           committer_message: "chore: CRON metrics rendering task"
@@ -54,7 +54,3 @@ jobs:
           plugin_music_top_type: tracks
           plugin_music_user: ${{ secrets.SPOTIFY_TOKEN }}
           plugin_traffic: yes
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.svg
-          output_action: pull-request-merge
