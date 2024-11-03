@@ -26,7 +26,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: newest-metrics.svg
           output_action: pull-request
-          committer_branch: ${{  github.ref }}
+          committer_branch: ${{ github.head_ref || github.ref_name }}  # Gets only the branch name from refs/heads/branch_name
           committer_message: "chore: CRON metrics rendering task"
           # Options
           template: classic
