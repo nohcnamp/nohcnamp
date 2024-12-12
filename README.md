@@ -19,8 +19,8 @@
 <a href="https://pierre-manchon.pm/find-me#contact">
     <img alt="contact" src="https://img.shields.io/static/v1?label=%2Ffind-me%23contact&labelColor=161b22&message= &color=161b22&style=flat-square">
 </a>
-<a href="https://github.com/pierre-manchon">
-  <img alt="Test Badge" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpierre-manchon%2Fpierre-manchon%2Fcreate-custom-badge%2Fendpoint.json">
+<a href="https://anaconda.org/conda-forge/sisppeo">
+  <img alt="sisppeo" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpierre-manchon%2Fpierre-manchon%2Fcreate-custom-badge%2Fsisppeo.json">
 </a>
 
 <details>
