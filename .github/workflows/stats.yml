@@ -1,11 +1,11 @@
-name: Update stats
+name: stats
 
 on:
   schedule:
     - cron: "0 11 * * *" # every 24 hours
   push:
     branches:
-      - change-readme-stats
+      - main
 
 jobs:
   publish:
@@ -18,7 +18,7 @@ jobs:
         uses: teoxoy/profile-readme-stats@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-      - name: Update README.md
+      - name: Push README.md
         shell: bash
         run: |
           if [[ "$(git status --porcelain)" != "" ]]; then
