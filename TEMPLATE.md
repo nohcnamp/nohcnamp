@@ -1,15 +1,18 @@
-> <img alt="praisesun" height=25px src="praisesun.png"> Salut, my name is Pierre, I'm a remote sensing, cli and cicd enthusiast
+> <img align="left" alt="praisesun" height=25px src="praisesun.png"> 
+
+### Salut!
+
+My name is Pierre, I'm a remote sensing, cli and cicd enthusiast
 
 <div align="left">
     
     🔍 In my {{ ACCOUNT_AGE }} years of relative activity here I've opened: {{ ISSUES }} issues
-    and submitted {{ PULL_REQUESTS }} pull requests totalling {{ COMMITS }} patchs accross {{ REPOSITORIES }} personnal repositories
-    and {{ REPOSITORIES_CONTRIBUTED_TO }} public repositories.
-    The most notable projects I've contributed to are pinned below.
+       and submitted {{ PULL_REQUESTS }} pull requests totalling {{ COMMITS }} patchs accross {{ REPOSITORIES }} personnal repositories
+       and {{ REPOSITORIES_CONTRIBUTED_TO }} public repositories.
+       The most notable projects I've contributed to are pinned below.
 
     🌱 Working on landscape segmentation for agro-ecology modeling
-    ⚡ Perfecting my spatial analysis
-    and remote sensing skills
+    ⚡ Perfecting my spatial analysis and remote sensing skills
     🚀 Learning unit testing & ci/cd in general.
 
     My most used languages are:
