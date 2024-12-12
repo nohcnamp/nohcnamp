@@ -1,8 +1,10 @@
-> <img align="left" alt="praisesun" height=25px src="praisesun.png"> 
+<img align="left" height=75 src="praisesun.png"> 
 
-### Salut!
+### Salut
 
 My name is Pierre, I'm a remote sensing, cli and cicd enthusiast
+
+<br>
 
 <div align="left">
     
