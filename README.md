@@ -1,11 +1,24 @@
-## [![typing](https://readme-typing-svg.herokuapp.com?color=FFFFFF&vCenter=true&width=500&height=20&lines=Hey+%F0%9F%91%8B%2C+I'm+Pierre;I+work+on+remote+sensing+and+gis;)]()
+<img align="left" height=75 src="praisesun.png"> 
 
+### Salut! 👋
+My name is Pierre, I'm a remote sensing and ci/cd enthusiast and a cli enjoyer
+<br>
 <div align="left">
-  
-    🌱 Learning unit testing & ci/cd in general.
-    🚀 Working on landscape segmentation for agro-ecology modeling
-    ⚡ Perfecting my spatial analysis
-       and remote sensing skills
+    
+    🔍 In my 10 years of relative activity here I've opened: 24 issues
+       and submitted 29 pull requests totalling 1197 patchs accross 8
+       personnal repositories and 5 public repositories.
+       The most notable projects I've contributed to are pinned below.
+
+    🌱 Working on landscape segmentation for agro-ecology modeling
+    ⚡ Perfecting my spatial analysis and remote sensing skills
+    🚀 Learning unit testing & ci/cd in general.
+
+    My most used languages are:
+    Python (51.3)
+    R (29)
+    Other (19.6)
+    
 
 </div>
 <div align="center">
@@ -19,11 +32,3 @@
 <a href="https://pierre-manchon.pm/find-me#contact">
     <img alt="contact" src="https://img.shields.io/static/v1?label=%2Ffind-me%23contact&labelColor=161b22&message= &color=161b22&style=flat-square">
 </a>
-<a href="https://anaconda.org/conda-forge/sisppeo">
-  <img alt="sisppeo" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpierre-manchon%2Fpierre-manchon%2Fcreate-custom-badge%2Fsisppeo.json">
-</a>
-
-<details>
-    <summary>stats</summary>
-    <p align="center"><img src="/metrics.svg" alt="Metrics" width="100%"></p>
-</details>
