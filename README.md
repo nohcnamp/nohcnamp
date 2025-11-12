@@ -2,22 +2,14 @@
 
 ### Salut!
 My name is **Pierre**, I'm a remote sensing 🛰️ and ci/cd ♻️ enthusiast working on landscape segmentation 🌱<br>
-[![EndeavourOS](https://img.shields.io/badge/EndeavourOS-black?logo=endeavouros&logoColor=white)](https://endeavouros.com/)
-[![Budgie](https://img.shields.io/badge/Budgie-black?logo=solus&logoColor=white)](https://buddiesofbudgie.org/)
-[![Bash](https://img.shields.io/badge/Bash-black?logo=gnubash&logoColor=white)](https://github.com/pierre-manchon/)
-[![vim](https://img.shields.io/badge/vim-black?logo=vim&logoColor=white)](https://github.com/pierre-manchon/)
-<!--
-[![ALT](https://img.shields.io/badge/TEXT-black?logo=LOGO&logoColor=white)](LINK)
-languages:
-shell
-python (dask, fiona, gdal, numba, numpy, pandas, pyproj, rasterio, scipy, scikit-learn, shapely, xarray)
-R (tidyverse, dplyr, sf, rgdal, ggplot2)
-c%2B%2B (BOOST, GDAL, GEOS, PROJ)
-html5
-css
--->
+[![Arch](https://img.shields.io/badge/Arch-black?logo=archlinux&logoColor=white)](https://archlinux.org/)
+[![bspwm](https://img.shields.io/badge/bspwm-black?logo=bspwm&logoColor=white)](https://github.com/baskerville/bspwm)
+[![polybar](https://img.shields.io/badge/polybar-black?logo=polybar&logoColor=white)](https://github.com/polybar/polybar)
+[![rofi](https://img.shields.io/badge/rofi-black?logo=rofi&logoColor=white)](https://github.com/davatorium/rofi)
+[![vim](https://img.shields.io/badge/vim-black?logo=vim&logoColor=white)](https://github.com/nohcnamp)
+
 <div align="left">
     
-    🔍 In my 11 years of relative activity here I've opened 26 issues and submitted 31 PRs (911 patchs).
+    🔍 In my 11 years of relative activity here I've opened 26 issues and submitted 31 PRs (913 patchs).
        The most notable projects I've contributed to are pinned below.
 </div>
