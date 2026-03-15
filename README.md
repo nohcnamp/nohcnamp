@@ -10,6 +10,6 @@ My name is **Pierre**, I'm a remote sensing 🛰️ and ci/cd ♻️ enthusiast 
 
 <div align="left">
     
-    🔍 In my 11 years of relative activity here I've opened 26 issues and submitted 31 PRs (1011 patchs).
+    🔍 In my 11 years of relative activity here I've opened 27 issues and submitted 31 PRs (1012 patchs).
        The most notable projects I've contributed to are pinned below.
 </div>
